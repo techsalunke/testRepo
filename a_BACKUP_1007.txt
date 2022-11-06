@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-ankush salunke hello
-=======
-ankush salunke
-
-
-yuvraj kale
->>>>>>> dev-ankush
